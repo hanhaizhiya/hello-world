@@ -1,2 +1,4 @@
 # hello-world
-to learn github
+To learn github
+
+It is my first time to use github;
